@@ -6,7 +6,7 @@ namespace DefaultPublisher.APIIntegration;
 
 using Microsoft.Sales.Customer;
 
-pageextension 50300 CustomerListExt extends "Customer List"
+pageextension 50350 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
